@@ -1,6 +1,6 @@
 # stackoverflow-oriented-programming
 
-Assignment 2 of COMP5313, The Univerisity of Hong Kong
+Assignment 2 of COMP5313, The Univerisity of Sydney
 
 This project is composed of two parts:  Scripy spider and data analysis part. All data are crawled from stackoverflow.com. Each piece of data contains, time, question, tags, votes, and etc.
 
